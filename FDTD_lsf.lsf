@@ -38,7 +38,7 @@ for(i = 1:length(port_xy_dir)) {
 }
 
 select("source");
-set("x",port_xy_list(1,1)-0e-6);
+set("x",port_xy_list(1,1)+2e-6);
 set("y",port_xy_list(1,2));
 select("in");
 set("x",port_xy_list(1,1)+5e-6);

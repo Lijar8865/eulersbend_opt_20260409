@@ -19,6 +19,7 @@ end
 cd(scriptFolder); % %切换到当前路径
 
 % 可手动指定库路径；当前独立工作区默认指向主库的绝对路径
+% customLibFolder = 'E:\OneDrive\GDS_Layout\202508_LT\matlab_photonic_gds_sim\lib';
 customLibFolder = '/home/wcli/mydata/FDTD_sim/matlab_photonic_gds_sim/lib';
 
 device_name = 'eulersbend_opt';
@@ -91,7 +92,7 @@ for i_d = 1
     % 获取当前参数组合
     para = param_combinations(i_d);
     str_wg = Wcli_wg.st_wg_gen("len",15,"Wid",para.W_inout);
-    str_wg.flip_shape;
+
     full_bend = Wcli_wg.euler_s_stwg_gen( ...
         "R_min", para.R_min, ...
         "total_angle", deg2rad(para.total_angle_deg), ...
@@ -106,12 +107,13 @@ for i_d = 1
     full_bend.merge_wg(str_wg); 
     full_bend.flip_shape;
     full_bend.merge_wg(str_wg.flip_shape); 
+    full_bend.flip_shape;
     %% 仿真边界和端口设置 ====================
     % 获取结构边界
-    sim_edge_xy = full_bend.get_boundary_points+[5,-5;+5,5];
+    sim_edge_xy = full_bend.get_boundary_points+[5,-5;-5,5];
     % 设置端口位置
     port_in1 = full_bend.get_port_in + [8, 0, 0];
-    port_out1 = full_bend.get_port_out + [8, 0, 0];
+    port_out1 = full_bend.get_port_out + [-8, 0, 0];
     
     port_xy_list = [port_in1; port_out1;];
     port_xy_dir = ['X', 'X'];
@@ -143,17 +145,12 @@ for i_d = 1
         clear fdtd_data;
     end
     %% 画成环
-    full_bend_ring = full_bend.copy;
-    Str_length = 100;% 直波导长度
-    full_bend.transform_shape(pi);
-    full_bend_ring.merge_wg(full_bend,"ofs_xy",-[Str_length-30,0]);
-    full_bend_ring=full_bend_ring.close_to_ring;
     %% GDS输出 ====================
     for outgds = [1]
         gds_folder = fullfile(scriptFolder, ['gds_gen_', run_date]);
         FileDc = fullfile(gds_folder, [para_name, '.gds']);
         Wcli_wg.generate_multi_flatten_gds(...
-            {full_bend_ring}, FileDc, 8, ...
+            {full_bend}, FileDc, 8, ...
             para_name, para_name);
         fprintf('GDS生成完成!\n');
         FileDc_gds2 = fullfile(gds_folder, ['ii_', para_name, '.gds']);
