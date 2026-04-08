@@ -47,7 +47,7 @@ end
 addpath(libFolder);%库函数路径
 
 % 可手动指定 FDTD 结果保存根目录；留空时默认保存到当前脚本目录
-customFdtdOutputRoot = '';
+customFdtdOutputRoot = [scriptFolder,'data'];
 if ~isempty(customFdtdOutputRoot)
     fdtdOutputRoot = customFdtdOutputRoot;
 else
@@ -67,7 +67,8 @@ format long g
 para_default = struct(...
     'etch_angle', 83, ...           % 刻蚀角度 (degrees)
     'h_wg', 0.22, ...               % 波导高度 (um)
-    'W_inout', 1.5, ...
+    'W_in', 1.5, ...
+    'W_out', 1.5, ...
     'R_min', 30, ...                % 最小弯曲半径 (um)
     'total_angle_deg', 30, ...      % 每段对称弯曲角度 (degree)
     'straight_length', 5, ...       % 中间直波导长度 (um)
@@ -76,10 +77,10 @@ para_default = struct(...
 
 % 定义要扫描的参数
 sweep_params = struct();
-% sweep_params.R_min = 20:5:40;
-% sweep_params.total_angle_deg = 20:5:40;
-sweep_params.R_min = 30;
-sweep_params.total_angle_deg = 30;
+sweep_params.W_in = 1.5:0.1:2;
+sweep_params.W_out = 1.5:0.1:2;
+% sweep_params.W_in = 1;
+% sweep_params.W_out = 2;
 sweep_names = fieldnames(sweep_params);
 
 % 自动生成参数组合
@@ -91,22 +92,23 @@ for i_d = 1
 % for i_d = 100
     % 获取当前参数组合
     para = param_combinations(i_d);
-    str_wg = Wcli_wg.st_wg_gen("len",15,"Wid",para.W_inout);
+    str_wg_in = Wcli_wg.st_wg_gen("len",15,"Wid",para.W_in);
+    str_wg_out = Wcli_wg.st_wg_gen("len",15,"Wid",para.W_out);
 
     full_bend = Wcli_wg.euler_s_stwg_gen( ...
         "R_min", para.R_min, ...
         "total_angle", deg2rad(para.total_angle_deg), ...
         "straight_length", para.straight_length, ...
         "N_point", para.N_point, ...
-        "Wid_in", para.W_inout, ...
-        "Wid_out", para.W_inout, ...
+        "Wid_in", para.W_in, ...
+        "Wid_out", para.W_out, ...
         "etch_angle", para.etch_angle, ...
         "h_wg", para.h_wg);
     full_bend.move_to("cleft");
     full_bend.calc_trace_length;
-    full_bend.merge_wg(str_wg); 
+    full_bend.merge_wg(str_wg_out); 
     full_bend.flip_shape;
-    full_bend.merge_wg(str_wg.flip_shape); 
+    full_bend.merge_wg(str_wg_in.flip_shape); 
     full_bend.flip_shape;
     %% 仿真边界和端口设置 ====================
     % 获取结构边界
@@ -146,7 +148,7 @@ for i_d = 1
     end
     %% 画成环
     %% GDS输出 ====================
-    for outgds = [1]
+    for outgds = []
         gds_folder = fullfile(scriptFolder, ['gds_gen_', run_date]);
         FileDc = fullfile(gds_folder, [para_name, '.gds']);
         Wcli_wg.generate_multi_flatten_gds(...
@@ -165,9 +167,8 @@ for fig_plot = []  % 设置为 [1] 进行数据可视化
     
     %% 配置绘图参数（可随时修改）
     clc;clear;close all;
-    param_x = 'spac';         % X轴参数名
-%     param_y = 'len_mmi';      % Y轴参数名
-    param_y = 'Tin_len';      % Y轴参数名
+    param_x = 'W_in';         % X轴参数名
+    param_y = 'W_out';        % Y轴参数名
     
     %% 加载数据
     date_list = {'20251124', '20251125'};
