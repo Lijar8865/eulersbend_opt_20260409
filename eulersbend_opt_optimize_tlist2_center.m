@@ -8,7 +8,8 @@ scriptPath = mfilename('fullpath');
 [scriptFolder, ~, ~] = fileparts(scriptPath);
 cd(scriptFolder);
 
-customLibFolder = '/home/wcli/mydata/FDTD_sim/matlab_photonic_gds_sim/lib';
+customLibFolder = 'G:\matlab_photonic_gds_sim\lib';
+% customLibFolder = '/home/wcli/mydata/FDTD_sim/matlab_photonic_gds_sim/lib';
 device_name = 'eulersbend_opt';
 run_date = datestr(now, 'yyyymmdd');
 
@@ -309,6 +310,10 @@ end
 
 function fdtd_exe = resolve_fdtd_exe()
     candidates = {
+        'C:\Program Files\Lumerical\v252\bin\fdtd-solutions.exe', ...
+        'C:\Program Files\Lumerical\v251\bin\fdtd-solutions.exe', ...
+        'C:\Program Files\ANSYS Inc\v252\Lumerical\bin\fdtd-solutions.exe', ...
+        'C:\Program Files\ANSYS Inc\v251\Lumerical\bin\fdtd-solutions.exe', ...
         '/opt/lumerical/v252/bin/fdtd-solutions', ...
         '/opt/lumerical/v251/bin/fdtd-solutions' ...
     };

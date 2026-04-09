@@ -15,3 +15,32 @@
 [2026-04-09 16:50:58] Point 3/11 (27.27%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_40_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=40.0000
 [2026-04-09 16:50:58]   precheck: existing_basic_mat=0, status=missing
 [2026-04-09 16:50:58]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=40.0000
+[2026-04-09 17:56:00] Start sweep with 11 points
+[2026-04-09 17:56:00] Sweep range: R_min = 30.00:5.00:80.00, fixed W_in = 0.45, fixed W_out = 1.66
+[2026-04-09 17:56:00] Point 1/11 (9.09%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=30.0000
+[2026-04-09 17:56:00]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 17:56:00]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=30.0000
+[2026-04-09 18:12:11]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0006759345, point_elapsed_s=970.73
+[2026-04-09 18:12:11]   best_so_far: index=1, W_in=0.4500, W_out=1.6600, R_min=30.0000, T_list2_center=1.0006759345, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 18:12:11]   progress: completed=1/11 (9.09%), elapsed=00h:16m:11s, eta_remaining=02h:41m:48s
+[2026-04-09 18:12:12] Point 2/11 (18.18%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_35_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=35.0000
+[2026-04-09 18:12:12]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 18:12:12]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=35.0000
+[2026-04-09 18:32:14]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0019671884, point_elapsed_s=1202.51
+[2026-04-09 18:32:14]   best_so_far: index=2, W_in=0.4500, W_out=1.6600, R_min=35.0000, T_list2_center=1.0019671884, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_35_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 18:32:14]   progress: completed=2/11 (18.18%), elapsed=00h:36m:15s, eta_remaining=02h:43m:05s
+[2026-04-09 18:32:14] Point 3/11 (27.27%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_40_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=40.0000
+[2026-04-09 18:32:14]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 18:32:14]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=40.0000
+[2026-04-09 19:02:16]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0032621201, point_elapsed_s=1801.82
+[2026-04-09 19:02:16]   best_so_far: index=3, W_in=0.4500, W_out=1.6600, R_min=40.0000, T_list2_center=1.0032621201, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_40_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 19:02:16]   progress: completed=3/11 (27.27%), elapsed=01h:06m:16s, eta_remaining=02h:56m:44s
+[2026-04-09 19:02:16] Point 4/11 (36.36%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_45_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=45.0000
+[2026-04-09 19:02:16]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 19:02:16]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=45.0000
+[2026-04-09 19:51:23]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0035164353, point_elapsed_s=2946.56
+[2026-04-09 19:51:23]   best_so_far: index=4, W_in=0.4500, W_out=1.6600, R_min=45.0000, T_list2_center=1.0035164353, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_45_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 19:51:23]   progress: completed=4/11 (36.36%), elapsed=01h:55m:23s, eta_remaining=03h:21m:55s
+[2026-04-09 19:51:23] Point 5/11 (45.45%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_50_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=50.0000
+[2026-04-09 19:51:23]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 19:51:23]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=50.0000
