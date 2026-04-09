@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wcli FDTD Optimizer"
+  short_description: "Adapt and optimize Wcli MATLAB-Lumerical workflows."
+  default_prompt: "Use this skill to inspect a Wcli-based MATLAB/Lumerical workspace, copy and adapt the driver script, preserve shared Wcli/FSP/LSF interfaces, run and debug optimization sweeps, and generate Markdown/HTML optimization reports with plots."
