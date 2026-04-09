@@ -110,7 +110,7 @@ if (flag_backkup=1){#
     #    save("bend_sim_basic.fsp");# 
        }
 
-save(save_name_fdtd+'\'+'basic.fsp');#save the file，不占用base_sim空间
+save(save_name_fdtd+'/'+'basic.fsp');#save the file，不占用base_sim空间
 if (flag_run){
     run;
     T_list = cell(length(port_xy_dir));

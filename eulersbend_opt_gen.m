@@ -143,7 +143,7 @@ for i_d = 1
         fdtd_data.para = para;
         fdtd_data.h_slab = para.h_wg * um;
         
-        Wcli_wg.run_fdtd_sim(fdtd_data,"flag_run",0,"gui_flag",1,"lsf_script",'FDTD_lsf.lsf');
+        Wcli_wg.run_fdtd_sim(fdtd_data,"flag_run",1,"gui_flag",0,"lsf_script",'FDTD_lsf.lsf');
         clear fdtd_data;
     end
     %% 画成环

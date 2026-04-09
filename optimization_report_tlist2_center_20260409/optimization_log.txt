@@ -1,0 +1,1031 @@
+[2026-04-09 06:25:15] Start sweep with 484 points
+[2026-04-09 06:25:15] Sweep range: W_in = 0.45:0.05:1.50, W_out = 0.45:0.05:1.50
+[2026-04-09 06:25:15] Point 1/484 (0.21%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.4500
+[2026-04-09 06:25:15]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:25:16]   run: launching FDTD for W_in=0.4500, W_out=0.4500
+[2026-04-09 06:28:37]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9996689352, point_elapsed_s=201.56
+[2026-04-09 06:28:37]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:28:37]   progress: completed=1/484 (0.21%), elapsed=00h:03m:22s, eta_remaining=27h:02m:56s
+[2026-04-09 06:28:37] Point 2/484 (0.41%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.4500
+[2026-04-09 06:28:37]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:28:38]   run: launching FDTD for W_in=0.5000, W_out=0.4500
+[2026-04-09 06:31:57]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9996046690, point_elapsed_s=199.58
+[2026-04-09 06:31:57]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:31:57]   progress: completed=2/484 (0.41%), elapsed=00h:06m:42s, eta_remaining=26h:53m:30s
+[2026-04-09 06:31:57] Point 3/484 (0.62%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.4500
+[2026-04-09 06:31:57]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:31:57]   run: launching FDTD for W_in=0.5500, W_out=0.4500
+[2026-04-09 06:35:19]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9993270474, point_elapsed_s=201.53
+[2026-04-09 06:35:19]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:35:19]   progress: completed=3/484 (0.62%), elapsed=00h:10m:03s, eta_remaining=26h:52m:12s
+[2026-04-09 06:35:19] Point 4/484 (0.83%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.4500
+[2026-04-09 06:35:19]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:35:19]   run: launching FDTD for W_in=0.6000, W_out=0.4500
+[2026-04-09 06:38:36]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9990325632, point_elapsed_s=197.76
+[2026-04-09 06:38:36]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:38:36]   progress: completed=4/484 (0.83%), elapsed=00h:13m:21s, eta_remaining=26h:42m:18s
+[2026-04-09 06:38:36] Point 5/484 (1.03%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.4500
+[2026-04-09 06:38:36]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:38:37]   run: launching FDTD for W_in=0.6500, W_out=0.4500
+[2026-04-09 06:41:54]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9987374154, point_elapsed_s=197.69
+[2026-04-09 06:41:54]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:41:54]   progress: completed=5/484 (1.03%), elapsed=00h:16m:39s, eta_remaining=26h:34m:56s
+[2026-04-09 06:41:54] Point 6/484 (1.24%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.4500
+[2026-04-09 06:41:54]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:41:54]   run: launching FDTD for W_in=0.7000, W_out=0.4500
+[2026-04-09 06:45:16]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9984143930, point_elapsed_s=201.43
+[2026-04-09 06:45:16]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:45:16]   progress: completed=6/484 (1.24%), elapsed=00h:20m:00s, eta_remaining=26h:33m:56s
+[2026-04-09 06:45:16] Point 7/484 (1.45%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.4500
+[2026-04-09 06:45:16]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:45:16]   run: launching FDTD for W_in=0.7500, W_out=0.4500
+[2026-04-09 06:48:35]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9981542438, point_elapsed_s=199.47
+[2026-04-09 06:48:35]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:48:35]   progress: completed=7/484 (1.45%), elapsed=00h:23m:20s, eta_remaining=26h:29m:57s
+[2026-04-09 06:48:35] Point 8/484 (1.65%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.4500
+[2026-04-09 06:48:35]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:48:35]   run: launching FDTD for W_in=0.8000, W_out=0.4500
+[2026-04-09 06:51:57]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9978492035, point_elapsed_s=201.92
+[2026-04-09 06:51:57]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:51:57]   progress: completed=8/484 (1.65%), elapsed=00h:26m:42s, eta_remaining=26h:28m:34s
+[2026-04-09 06:51:57] Point 9/484 (1.86%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.4500
+[2026-04-09 06:51:57]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:51:57]   run: launching FDTD for W_in=0.8500, W_out=0.4500
+[2026-04-09 06:55:09]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9977175538, point_elapsed_s=191.85
+[2026-04-09 06:55:09]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:55:09]   progress: completed=9/484 (1.86%), elapsed=00h:29m:54s, eta_remaining=26h:17m:53s
+[2026-04-09 06:55:09] Point 10/484 (2.07%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.4500
+[2026-04-09 06:55:09]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:55:09]   run: launching FDTD for W_in=0.9000, W_out=0.4500
+[2026-04-09 06:58:25]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9974484915, point_elapsed_s=195.69
+[2026-04-09 06:58:25]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 06:58:25]   progress: completed=10/484 (2.07%), elapsed=00h:33m:10s, eta_remaining=26h:11m:44s
+[2026-04-09 06:58:25] Point 11/484 (2.27%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.4500
+[2026-04-09 06:58:25]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 06:58:25]   run: launching FDTD for W_in=0.9500, W_out=0.4500
+[2026-04-09 07:01:41]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9974091273, point_elapsed_s=196.33
+[2026-04-09 07:01:41]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:01:41]   progress: completed=11/484 (2.27%), elapsed=00h:36m:26s, eta_remaining=26h:06m:35s
+[2026-04-09 07:01:41] Point 12/484 (2.48%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.4500
+[2026-04-09 07:01:41]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:01:41]   run: launching FDTD for W_in=1.0000, W_out=0.4500
+[2026-04-09 07:04:59]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9972119959, point_elapsed_s=198.08
+[2026-04-09 07:04:59]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:04:59]   progress: completed=12/484 (2.48%), elapsed=00h:39m:44s, eta_remaining=26h:02m:53s
+[2026-04-09 07:04:59] Point 13/484 (2.69%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.4500
+[2026-04-09 07:04:59]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:04:59]   run: launching FDTD for W_in=1.0500, W_out=0.4500
+[2026-04-09 07:08:17]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9970246814, point_elapsed_s=197.46
+[2026-04-09 07:08:17]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:08:17]   progress: completed=13/484 (2.69%), elapsed=00h:43m:02s, eta_remaining=25h:58m:51s
+[2026-04-09 07:08:17] Point 14/484 (2.89%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.4500
+[2026-04-09 07:08:17]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:08:17]   run: launching FDTD for W_in=1.1000, W_out=0.4500
+[2026-04-09 07:11:33]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9969393706, point_elapsed_s=195.79
+[2026-04-09 07:11:33]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:11:33]   progress: completed=14/484 (2.89%), elapsed=00h:46m:17s, eta_remaining=25h:54m:00s
+[2026-04-09 07:11:33] Point 15/484 (3.10%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.4500
+[2026-04-09 07:11:33]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:11:33]   run: launching FDTD for W_in=1.1500, W_out=0.4500
+[2026-04-09 07:14:50]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9968101742, point_elapsed_s=197.73
+[2026-04-09 07:14:50]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:14:50]   progress: completed=15/484 (3.10%), elapsed=00h:49m:35s, eta_remaining=25h:50m:22s
+[2026-04-09 07:14:50] Point 16/484 (3.31%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.4500
+[2026-04-09 07:14:51]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:14:51]   run: launching FDTD for W_in=1.2000, W_out=0.4500
+[2026-04-09 07:18:10]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9966041933, point_elapsed_s=199.87
+[2026-04-09 07:18:10]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:18:10]   progress: completed=16/484 (3.31%), elapsed=00h:52m:55s, eta_remaining=25h:47m:52s
+[2026-04-09 07:18:10] Point 17/484 (3.51%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.4500
+[2026-04-09 07:18:10]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:18:10]   run: launching FDTD for W_in=1.2500, W_out=0.4500
+[2026-04-09 07:21:26]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9964932214, point_elapsed_s=195.34
+[2026-04-09 07:21:26]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:21:26]   progress: completed=17/484 (3.51%), elapsed=00h:56m:10s, eta_remaining=25h:43m:09s
+[2026-04-09 07:21:26] Point 18/484 (3.72%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.4500
+[2026-04-09 07:21:26]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:21:26]   run: launching FDTD for W_in=1.3000, W_out=0.4500
+[2026-04-09 07:24:43]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9963756372, point_elapsed_s=197.55
+[2026-04-09 07:24:43]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:24:43]   progress: completed=18/484 (3.72%), elapsed=00h:59m:28s, eta_remaining=25h:39m:34s
+[2026-04-09 07:24:43] Point 19/484 (3.93%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.35_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3500, W_out=0.4500
+[2026-04-09 07:24:43]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:24:43]   run: launching FDTD for W_in=1.3500, W_out=0.4500
+[2026-04-09 07:28:00]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9964459621, point_elapsed_s=196.64
+[2026-04-09 07:28:00]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:28:00]   progress: completed=19/484 (3.93%), elapsed=01h:02m:45s, eta_remaining=25h:35m:38s
+[2026-04-09 07:28:00] Point 20/484 (4.13%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.4_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4000, W_out=0.4500
+[2026-04-09 07:28:00]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:28:00]   run: launching FDTD for W_in=1.4000, W_out=0.4500
+[2026-04-09 07:31:16]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9963814601, point_elapsed_s=195.62
+[2026-04-09 07:31:16]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:31:16]   progress: completed=20/484 (4.13%), elapsed=01h:06m:00s, eta_remaining=25h:31m:22s
+[2026-04-09 07:31:16] Point 21/484 (4.34%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4500, W_out=0.4500
+[2026-04-09 07:31:16]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:31:16]   run: launching FDTD for W_in=1.4500, W_out=0.4500
+[2026-04-09 07:34:33]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9961979292, point_elapsed_s=197.63
+[2026-04-09 07:34:33]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:34:33]   progress: completed=21/484 (4.34%), elapsed=01h:09m:18s, eta_remaining=25h:27m:56s
+[2026-04-09 07:34:33] Point 22/484 (4.55%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.5_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.5000, W_out=0.4500
+[2026-04-09 07:34:33]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:34:33]   run: launching FDTD for W_in=1.5000, W_out=0.4500
+[2026-04-09 07:37:47]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9950872111, point_elapsed_s=194.08
+[2026-04-09 07:37:47]   best_so_far: index=1, W_in=0.4500, W_out=0.4500, T_list2_center=0.9996689352, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.45_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:37:47]   progress: completed=22/484 (4.55%), elapsed=01h:12m:32s, eta_remaining=25h:23m:16s
+[2026-04-09 07:37:48] Point 23/484 (4.75%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.5000
+[2026-04-09 07:37:48]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:37:48]   run: launching FDTD for W_in=0.4500, W_out=0.5000
+[2026-04-09 07:41:01]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9998831076, point_elapsed_s=193.72
+[2026-04-09 07:41:01]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:41:01]   progress: completed=23/484 (4.75%), elapsed=01h:15m:46s, eta_remaining=25h:18m:37s
+[2026-04-09 07:41:01] Point 24/484 (4.96%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.5000
+[2026-04-09 07:41:01]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:41:01]   run: launching FDTD for W_in=0.5000, W_out=0.5000
+[2026-04-09 07:44:21]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9998240891, point_elapsed_s=199.52
+[2026-04-09 07:44:21]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:44:21]   progress: completed=24/484 (4.96%), elapsed=01h:19m:06s, eta_remaining=25h:15m:57s
+[2026-04-09 07:44:21] Point 25/484 (5.17%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.5000
+[2026-04-09 07:44:21]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:44:21]   run: launching FDTD for W_in=0.5500, W_out=0.5000
+[2026-04-09 07:47:39]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9994731899, point_elapsed_s=197.99
+[2026-04-09 07:47:39]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:47:39]   progress: completed=25/484 (5.17%), elapsed=01h:22m:24s, eta_remaining=25h:12m:45s
+[2026-04-09 07:47:39] Point 26/484 (5.37%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.5000
+[2026-04-09 07:47:39]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:47:39]   run: launching FDTD for W_in=0.6000, W_out=0.5000
+[2026-04-09 07:50:57]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9991342157, point_elapsed_s=197.76
+[2026-04-09 07:50:57]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:50:57]   progress: completed=26/484 (5.37%), elapsed=01h:25m:41s, eta_remaining=25h:09m:28s
+[2026-04-09 07:50:57] Point 27/484 (5.58%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.5000
+[2026-04-09 07:50:57]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:50:57]   run: launching FDTD for W_in=0.6500, W_out=0.5000
+[2026-04-09 07:54:16]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9988511608, point_elapsed_s=199.68
+[2026-04-09 07:54:16]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:54:16]   progress: completed=27/484 (5.58%), elapsed=01h:29m:01s, eta_remaining=25h:06m:44s
+[2026-04-09 07:54:16] Point 28/484 (5.79%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.5000
+[2026-04-09 07:54:16]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:54:17]   run: launching FDTD for W_in=0.7000, W_out=0.5000
+[2026-04-09 07:57:38]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9985042647, point_elapsed_s=201.39
+[2026-04-09 07:57:38]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 07:57:38]   progress: completed=28/484 (5.79%), elapsed=01h:32m:23s, eta_remaining=25h:04m:25s
+[2026-04-09 07:57:38] Point 29/484 (5.99%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.5000
+[2026-04-09 07:57:38]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 07:57:38]   run: launching FDTD for W_in=0.7500, W_out=0.5000
+[2026-04-09 08:00:56]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9983363455, point_elapsed_s=197.82
+[2026-04-09 08:00:56]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:00:56]   progress: completed=29/484 (5.99%), elapsed=01h:35m:40s, eta_remaining=25h:01m:06s
+[2026-04-09 08:00:56] Point 30/484 (6.20%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.5000
+[2026-04-09 08:00:56]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:00:56]   run: launching FDTD for W_in=0.8000, W_out=0.5000
+[2026-04-09 08:04:10]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9981098405, point_elapsed_s=194.28
+[2026-04-09 08:04:10]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:04:10]   progress: completed=30/484 (6.20%), elapsed=01h:38m:55s, eta_remaining=24h:56m:53s
+[2026-04-09 08:04:10] Point 31/484 (6.40%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.5000
+[2026-04-09 08:04:10]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:04:10]   run: launching FDTD for W_in=0.8500, W_out=0.5000
+[2026-04-09 08:07:30]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9978860857, point_elapsed_s=199.78
+[2026-04-09 08:07:30]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:07:30]   progress: completed=31/484 (6.40%), elapsed=01h:42m:15s, eta_remaining=24h:54m:04s
+[2026-04-09 08:07:30] Point 32/484 (6.61%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.5000
+[2026-04-09 08:07:30]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:07:30]   run: launching FDTD for W_in=0.9000, W_out=0.5000
+[2026-04-09 08:10:49]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9977471359, point_elapsed_s=199.48
+[2026-04-09 08:10:49]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:10:49]   progress: completed=32/484 (6.61%), elapsed=01h:45m:34s, eta_remaining=24h:51m:09s
+[2026-04-09 08:10:49] Point 33/484 (6.82%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.5000
+[2026-04-09 08:10:49]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:10:49]   run: launching FDTD for W_in=0.9500, W_out=0.5000
+[2026-04-09 08:14:07]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9975633533, point_elapsed_s=197.48
+[2026-04-09 08:14:07]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:14:07]   progress: completed=33/484 (6.82%), elapsed=01h:48m:52s, eta_remaining=24h:47m:45s
+[2026-04-09 08:14:07] Point 34/484 (7.02%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.5000
+[2026-04-09 08:14:07]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:14:07]   run: launching FDTD for W_in=1.0000, W_out=0.5000
+[2026-04-09 08:17:18]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9974126952, point_elapsed_s=191.50
+[2026-04-09 08:17:18]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:17:18]   progress: completed=34/484 (7.02%), elapsed=01h:52m:03s, eta_remaining=24h:43m:03s
+[2026-04-09 08:17:18] Point 35/484 (7.23%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.5000
+[2026-04-09 08:17:18]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:17:18]   run: launching FDTD for W_in=1.0500, W_out=0.5000
+[2026-04-09 08:20:34]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9972643065, point_elapsed_s=195.44
+[2026-04-09 08:20:34]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:20:34]   progress: completed=35/484 (7.23%), elapsed=01h:55m:19s, eta_remaining=24h:39m:16s
+[2026-04-09 08:20:34] Point 36/484 (7.44%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.5000
+[2026-04-09 08:20:34]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:20:34]   run: launching FDTD for W_in=1.1000, W_out=0.5000
+[2026-04-09 08:23:50]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9972472766, point_elapsed_s=195.60
+[2026-04-09 08:23:50]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:23:50]   progress: completed=36/484 (7.44%), elapsed=01h:58m:34s, eta_remaining=24h:35m:33s
+[2026-04-09 08:23:50] Point 37/484 (7.64%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.5000
+[2026-04-09 08:23:50]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:23:50]   run: launching FDTD for W_in=1.1500, W_out=0.5000
+[2026-04-09 08:27:08]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9970906017, point_elapsed_s=198.06
+[2026-04-09 08:27:08]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:27:08]   progress: completed=37/484 (7.64%), elapsed=02h:01m:52s, eta_remaining=24h:32m:21s
+[2026-04-09 08:27:08] Point 38/484 (7.85%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.5000
+[2026-04-09 08:27:08]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:27:08]   run: launching FDTD for W_in=1.2000, W_out=0.5000
+[2026-04-09 08:30:21]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9969183511, point_elapsed_s=193.61
+[2026-04-09 08:30:21]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:30:21]   progress: completed=38/484 (7.85%), elapsed=02h:05m:06s, eta_remaining=24h:28m:17s
+[2026-04-09 08:30:21] Point 39/484 (8.06%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.5000
+[2026-04-09 08:30:21]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:30:21]   run: launching FDTD for W_in=1.2500, W_out=0.5000
+[2026-04-09 08:33:33]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9968465743, point_elapsed_s=191.47
+[2026-04-09 08:33:33]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:33:33]   progress: completed=39/484 (8.06%), elapsed=02h:08m:18s, eta_remaining=24h:23m:51s
+[2026-04-09 08:33:33] Point 40/484 (8.26%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.5000
+[2026-04-09 08:33:33]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:33:33]   run: launching FDTD for W_in=1.3000, W_out=0.5000
+[2026-04-09 08:36:52]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9966652836, point_elapsed_s=199.53
+[2026-04-09 08:36:52]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:36:52]   progress: completed=40/484 (8.26%), elapsed=02h:11m:37s, eta_remaining=24h:20m:58s
+[2026-04-09 08:36:52] Point 41/484 (8.47%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.35_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3500, W_out=0.5000
+[2026-04-09 08:36:52]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:36:52]   run: launching FDTD for W_in=1.3500, W_out=0.5000
+[2026-04-09 08:40:10]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9967978104, point_elapsed_s=197.67
+[2026-04-09 08:40:10]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:40:10]   progress: completed=41/484 (8.47%), elapsed=02h:14m:55s, eta_remaining=24h:17m:44s
+[2026-04-09 08:40:10] Point 42/484 (8.68%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.4_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4000, W_out=0.5000
+[2026-04-09 08:40:10]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:40:10]   run: launching FDTD for W_in=1.4000, W_out=0.5000
+[2026-04-09 08:43:26]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9967126371, point_elapsed_s=195.61
+[2026-04-09 08:43:26]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:43:26]   progress: completed=42/484 (8.68%), elapsed=02h:18m:11s, eta_remaining=24h:14m:08s
+[2026-04-09 08:43:26] Point 43/484 (8.88%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4500, W_out=0.5000
+[2026-04-09 08:43:26]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:43:26]   run: launching FDTD for W_in=1.4500, W_out=0.5000
+[2026-04-09 08:46:37]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9962052443, point_elapsed_s=191.30
+[2026-04-09 08:46:37]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:46:37]   progress: completed=43/484 (8.88%), elapsed=02h:21m:22s, eta_remaining=24h:09m:48s
+[2026-04-09 08:46:37] Point 44/484 (9.09%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.5_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.5000, W_out=0.5000
+[2026-04-09 08:46:37]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:46:37]   run: launching FDTD for W_in=1.5000, W_out=0.5000
+[2026-04-09 08:49:51]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9957416718, point_elapsed_s=193.90
+[2026-04-09 08:49:51]   best_so_far: index=23, W_in=0.4500, W_out=0.5000, T_list2_center=0.9998831076, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.5_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:49:51]   progress: completed=44/484 (9.09%), elapsed=02h:24m:36s, eta_remaining=24h:05m:58s
+[2026-04-09 08:49:51] Point 45/484 (9.30%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.5500
+[2026-04-09 08:49:51]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:49:51]   run: launching FDTD for W_in=0.4500, W_out=0.5500
+[2026-04-09 08:53:11]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0001348252, point_elapsed_s=199.72
+[2026-04-09 08:53:11]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:53:11]   progress: completed=45/484 (9.30%), elapsed=02h:27m:56s, eta_remaining=24h:03m:07s
+[2026-04-09 08:53:11] Point 46/484 (9.50%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.5500
+[2026-04-09 08:53:11]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:53:11]   run: launching FDTD for W_in=0.5000, W_out=0.5500
+[2026-04-09 08:56:25]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0000641597, point_elapsed_s=193.66
+[2026-04-09 08:56:25]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:56:25]   progress: completed=46/484 (9.50%), elapsed=02h:31m:09s, eta_remaining=23h:59m:16s
+[2026-04-09 08:56:25] Point 47/484 (9.71%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.5500
+[2026-04-09 08:56:25]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:56:25]   run: launching FDTD for W_in=0.5500, W_out=0.5500
+[2026-04-09 08:59:44]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9996553948, point_elapsed_s=199.50
+[2026-04-09 08:59:44]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 08:59:44]   progress: completed=47/484 (9.71%), elapsed=02h:34m:29s, eta_remaining=23h:56m:21s
+[2026-04-09 08:59:44] Point 48/484 (9.92%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.5500
+[2026-04-09 08:59:44]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 08:59:44]   run: launching FDTD for W_in=0.6000, W_out=0.5500
+[2026-04-09 09:03:04]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9993681902, point_elapsed_s=199.69
+[2026-04-09 09:03:04]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:03:04]   progress: completed=48/484 (9.92%), elapsed=02h:37m:49s, eta_remaining=23h:53m:26s
+[2026-04-09 09:03:04] Point 49/484 (10.12%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.5500
+[2026-04-09 09:03:04]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:03:04]   run: launching FDTD for W_in=0.6500, W_out=0.5500
+[2026-04-09 09:06:26]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9991818901, point_elapsed_s=201.61
+[2026-04-09 09:06:26]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:06:26]   progress: completed=49/484 (10.12%), elapsed=02h:41m:10s, eta_remaining=23h:50m:48s
+[2026-04-09 09:06:26] Point 50/484 (10.33%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.5500
+[2026-04-09 09:06:26]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:06:26]   run: launching FDTD for W_in=0.7000, W_out=0.5500
+[2026-04-09 09:09:40]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9988642397, point_elapsed_s=193.99
+[2026-04-09 09:09:40]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:09:40]   progress: completed=50/484 (10.33%), elapsed=02h:44m:24s, eta_remaining=23h:47m:02s
+[2026-04-09 09:09:40] Point 51/484 (10.54%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.5500
+[2026-04-09 09:09:40]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:09:40]   run: launching FDTD for W_in=0.7500, W_out=0.5500
+[2026-04-09 09:12:57]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9986447455, point_elapsed_s=197.62
+[2026-04-09 09:12:57]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:12:57]   progress: completed=51/484 (10.54%), elapsed=02h:47m:42s, eta_remaining=23h:43m:48s
+[2026-04-09 09:12:57] Point 52/484 (10.74%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.5500
+[2026-04-09 09:12:57]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:12:57]   run: launching FDTD for W_in=0.8000, W_out=0.5500
+[2026-04-09 09:16:15]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9983875165, point_elapsed_s=197.42
+[2026-04-09 09:16:15]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:16:15]   progress: completed=52/484 (10.74%), elapsed=02h:50m:59s, eta_remaining=23h:40m:32s
+[2026-04-09 09:16:15] Point 53/484 (10.95%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.5500
+[2026-04-09 09:16:15]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:16:15]   run: launching FDTD for W_in=0.8500, W_out=0.5500
+[2026-04-09 09:19:31]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9981505350, point_elapsed_s=196.05
+[2026-04-09 09:19:31]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:19:31]   progress: completed=53/484 (10.95%), elapsed=02h:54m:15s, eta_remaining=23h:37m:05s
+[2026-04-09 09:19:31] Point 54/484 (11.16%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.5500
+[2026-04-09 09:19:31]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:19:31]   run: launching FDTD for W_in=0.9000, W_out=0.5500
+[2026-04-09 09:22:40]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9979095389, point_elapsed_s=189.67
+[2026-04-09 09:22:40]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:22:40]   progress: completed=54/484 (11.16%), elapsed=02h:57m:25s, eta_remaining=23h:32m:47s
+[2026-04-09 09:22:41] Point 55/484 (11.36%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.5500
+[2026-04-09 09:22:41]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:22:41]   run: launching FDTD for W_in=0.9500, W_out=0.5500
+[2026-04-09 09:25:52]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9978004157, point_elapsed_s=191.67
+[2026-04-09 09:25:52]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:25:52]   progress: completed=55/484 (11.36%), elapsed=03h:00m:37s, eta_remaining=23h:28m:48s
+[2026-04-09 09:25:52] Point 56/484 (11.57%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.5500
+[2026-04-09 09:25:52]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:25:52]   run: launching FDTD for W_in=1.0000, W_out=0.5500
+[2026-04-09 09:29:12]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9975880658, point_elapsed_s=199.68
+[2026-04-09 09:29:12]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:29:12]   progress: completed=56/484 (11.57%), elapsed=03h:03m:57s, eta_remaining=23h:25m:51s
+[2026-04-09 09:29:12] Point 57/484 (11.78%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.5500
+[2026-04-09 09:29:12]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:29:12]   run: launching FDTD for W_in=1.0500, W_out=0.5500
+[2026-04-09 09:32:30]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9975135271, point_elapsed_s=197.67
+[2026-04-09 09:32:30]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:32:30]   progress: completed=57/484 (11.78%), elapsed=03h:07m:14s, eta_remaining=23h:22m:40s
+[2026-04-09 09:32:30] Point 58/484 (11.98%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.5500
+[2026-04-09 09:32:30]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:32:30]   run: launching FDTD for W_in=1.1000, W_out=0.5500
+[2026-04-09 09:35:45]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9974139435, point_elapsed_s=195.60
+[2026-04-09 09:35:45]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:35:45]   progress: completed=58/484 (11.98%), elapsed=03h:10m:30s, eta_remaining=23h:19m:12s
+[2026-04-09 09:35:45] Point 59/484 (12.19%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.5500
+[2026-04-09 09:35:45]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:35:45]   run: launching FDTD for W_in=1.1500, W_out=0.5500
+[2026-04-09 09:38:55]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9972141480, point_elapsed_s=189.55
+[2026-04-09 09:38:55]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:38:55]   progress: completed=59/484 (12.19%), elapsed=03h:13m:40s, eta_remaining=23h:15m:01s
+[2026-04-09 09:38:55] Point 60/484 (12.40%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.5500
+[2026-04-09 09:38:55]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:38:55]   run: launching FDTD for W_in=1.2000, W_out=0.5500
+[2026-04-09 09:42:08]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9970721613, point_elapsed_s=193.49
+[2026-04-09 09:42:08]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:42:08]   progress: completed=60/484 (12.40%), elapsed=03h:16m:53s, eta_remaining=23h:11m:20s
+[2026-04-09 09:42:09] Point 61/484 (12.60%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.5500
+[2026-04-09 09:42:09]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:42:09]   run: launching FDTD for W_in=1.2500, W_out=0.5500
+[2026-04-09 09:45:24]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9969799340, point_elapsed_s=195.55
+[2026-04-09 09:45:24]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:45:24]   progress: completed=61/484 (12.60%), elapsed=03h:20m:09s, eta_remaining=23h:07m:54s
+[2026-04-09 09:45:24] Point 62/484 (12.81%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.5500
+[2026-04-09 09:45:24]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:45:24]   run: launching FDTD for W_in=1.3000, W_out=0.5500
+[2026-04-09 09:48:44]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9969707750, point_elapsed_s=199.52
+[2026-04-09 09:48:44]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:48:44]   progress: completed=62/484 (12.81%), elapsed=03h:23m:28s, eta_remaining=23h:04m:56s
+[2026-04-09 09:48:44] Point 63/484 (13.02%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.35_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3500, W_out=0.5500
+[2026-04-09 09:48:44]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:48:44]   run: launching FDTD for W_in=1.3500, W_out=0.5500
+[2026-04-09 09:51:57]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9970083620, point_elapsed_s=193.54
+[2026-04-09 09:51:57]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:51:57]   progress: completed=63/484 (13.02%), elapsed=03h:26m:42s, eta_remaining=23h:01m:17s
+[2026-04-09 09:51:57] Point 64/484 (13.22%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.4_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4000, W_out=0.5500
+[2026-04-09 09:51:57]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:51:57]   run: launching FDTD for W_in=1.4000, W_out=0.5500
+[2026-04-09 09:55:11]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9968438254, point_elapsed_s=193.57
+[2026-04-09 09:55:11]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:55:11]   progress: completed=64/484 (13.22%), elapsed=03h:29m:56s, eta_remaining=22h:57m:39s
+[2026-04-09 09:55:11] Point 65/484 (13.43%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4500, W_out=0.5500
+[2026-04-09 09:55:11]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:55:11]   run: launching FDTD for W_in=1.4500, W_out=0.5500
+[2026-04-09 09:58:27]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9965675597, point_elapsed_s=195.70
+[2026-04-09 09:58:27]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 09:58:27]   progress: completed=65/484 (13.43%), elapsed=03h:33m:11s, eta_remaining=22h:54m:16s
+[2026-04-09 09:58:27] Point 66/484 (13.64%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.5_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.5000, W_out=0.5500
+[2026-04-09 09:58:27]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 09:58:27]   run: launching FDTD for W_in=1.5000, W_out=0.5500
+[2026-04-09 10:01:43]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9953036733, point_elapsed_s=196.09
+[2026-04-09 10:01:43]   best_so_far: index=45, W_in=0.4500, W_out=0.5500, T_list2_center=1.0001348252, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.55_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:01:43]   progress: completed=66/484 (13.64%), elapsed=03h:36m:28s, eta_remaining=22h:50m:55s
+[2026-04-09 10:01:43] Point 67/484 (13.84%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.6000
+[2026-04-09 10:01:43]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:01:43]   run: launching FDTD for W_in=0.4500, W_out=0.6000
+[2026-04-09 10:04:59]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0005252813, point_elapsed_s=195.62
+[2026-04-09 10:04:59]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:04:59]   progress: completed=67/484 (13.84%), elapsed=03h:39m:43s, eta_remaining=22h:47m:31s
+[2026-04-09 10:04:59] Point 68/484 (14.05%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.6000
+[2026-04-09 10:04:59]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:04:59]   run: launching FDTD for W_in=0.5000, W_out=0.6000
+[2026-04-09 10:08:16]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0004368773, point_elapsed_s=197.65
+[2026-04-09 10:08:16]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:08:16]   progress: completed=68/484 (14.05%), elapsed=03h:43m:01s, eta_remaining=22h:44m:20s
+[2026-04-09 10:08:16] Point 69/484 (14.26%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.6000
+[2026-04-09 10:08:16]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:08:16]   run: launching FDTD for W_in=0.5500, W_out=0.6000
+[2026-04-09 10:11:32]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0000460289, point_elapsed_s=195.54
+[2026-04-09 10:11:32]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:11:32]   progress: completed=69/484 (14.26%), elapsed=03h:46m:16s, eta_remaining=22h:40m:56s
+[2026-04-09 10:11:32] Point 70/484 (14.46%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.6000
+[2026-04-09 10:11:32]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:11:32]   run: launching FDTD for W_in=0.6000, W_out=0.6000
+[2026-04-09 10:14:43]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9998799907, point_elapsed_s=191.59
+[2026-04-09 10:14:43]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:14:43]   progress: completed=70/484 (14.46%), elapsed=03h:49m:28s, eta_remaining=22h:37m:08s
+[2026-04-09 10:14:43] Point 71/484 (14.67%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.6000
+[2026-04-09 10:14:43]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:14:43]   run: launching FDTD for W_in=0.6500, W_out=0.6000
+[2026-04-09 10:17:55]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9995038395, point_elapsed_s=191.77
+[2026-04-09 10:17:55]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:17:55]   progress: completed=71/484 (14.67%), elapsed=03h:52m:40s, eta_remaining=22h:33m:24s
+[2026-04-09 10:17:55] Point 72/484 (14.88%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.6000
+[2026-04-09 10:17:55]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:17:55]   run: launching FDTD for W_in=0.7000, W_out=0.6000
+[2026-04-09 10:21:11]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9992017501, point_elapsed_s=195.99
+[2026-04-09 10:21:11]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:21:11]   progress: completed=72/484 (14.88%), elapsed=03h:55m:56s, eta_remaining=22h:30m:04s
+[2026-04-09 10:21:11] Point 73/484 (15.08%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.6000
+[2026-04-09 10:21:11]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:21:11]   run: launching FDTD for W_in=0.7500, W_out=0.6000
+[2026-04-09 10:24:33]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9990167505, point_elapsed_s=201.68
+[2026-04-09 10:24:33]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:24:33]   progress: completed=73/484 (15.08%), elapsed=03h:59m:18s, eta_remaining=22h:27m:16s
+[2026-04-09 10:24:33] Point 74/484 (15.29%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.6000
+[2026-04-09 10:24:33]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:24:33]   run: launching FDTD for W_in=0.8000, W_out=0.6000
+[2026-04-09 10:27:49]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9987756181, point_elapsed_s=196.00
+[2026-04-09 10:27:49]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:27:49]   progress: completed=74/484 (15.29%), elapsed=04h:02m:34s, eta_remaining=22h:23m:56s
+[2026-04-09 10:27:49] Point 75/484 (15.50%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.6000
+[2026-04-09 10:27:49]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:27:49]   run: launching FDTD for W_in=0.8500, W_out=0.6000
+[2026-04-09 10:30:59]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9985323177, point_elapsed_s=189.83
+[2026-04-09 10:30:59]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:30:59]   progress: completed=75/484 (15.50%), elapsed=04h:05m:44s, eta_remaining=22h:20m:02s
+[2026-04-09 10:30:59] Point 76/484 (15.70%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.6000
+[2026-04-09 10:30:59]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:30:59]   run: launching FDTD for W_in=0.9000, W_out=0.6000
+[2026-04-09 10:34:11]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9984392686, point_elapsed_s=191.57
+[2026-04-09 10:34:11]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:34:11]   progress: completed=76/484 (15.70%), elapsed=04h:08m:55s, eta_remaining=22h:16m:19s
+[2026-04-09 10:34:11] Point 77/484 (15.91%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.6000
+[2026-04-09 10:34:11]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:34:11]   run: launching FDTD for W_in=0.9500, W_out=0.6000
+[2026-04-09 10:37:27]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9982638664, point_elapsed_s=196.11
+[2026-04-09 10:37:27]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:37:27]   progress: completed=77/484 (15.91%), elapsed=04h:12m:11s, eta_remaining=22h:13m:01s
+[2026-04-09 10:37:27] Point 78/484 (16.12%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.6000
+[2026-04-09 10:37:27]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:37:27]   run: launching FDTD for W_in=1.0000, W_out=0.6000
+[2026-04-09 10:40:46]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9980865267, point_elapsed_s=199.66
+[2026-04-09 10:40:46]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:40:46]   progress: completed=78/484 (16.12%), elapsed=04h:15m:31s, eta_remaining=22h:10m:01s
+[2026-04-09 10:40:47] Point 79/484 (16.32%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.6000
+[2026-04-09 10:40:47]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:40:47]   run: launching FDTD for W_in=1.0500, W_out=0.6000
+[2026-04-09 10:43:58]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9979771434, point_elapsed_s=191.44
+[2026-04-09 10:43:58]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:43:58]   progress: completed=79/484 (16.32%), elapsed=04h:18m:43s, eta_remaining=22h:06m:18s
+[2026-04-09 10:43:58] Point 80/484 (16.53%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.6000
+[2026-04-09 10:43:58]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:43:58]   run: launching FDTD for W_in=1.1000, W_out=0.6000
+[2026-04-09 10:47:06]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9978459341, point_elapsed_s=187.91
+[2026-04-09 10:47:06]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:47:06]   progress: completed=80/484 (16.53%), elapsed=04h:21m:51s, eta_remaining=22h:02m:19s
+[2026-04-09 10:47:06] Point 81/484 (16.74%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.6000
+[2026-04-09 10:47:06]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:47:06]   run: launching FDTD for W_in=1.1500, W_out=0.6000
+[2026-04-09 10:50:24]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9977055670, point_elapsed_s=197.67
+[2026-04-09 10:50:24]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:50:24]   progress: completed=81/484 (16.74%), elapsed=04h:25m:08s, eta_remaining=21h:59m:09s
+[2026-04-09 10:50:24] Point 82/484 (16.94%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.6000
+[2026-04-09 10:50:24]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:50:24]   run: launching FDTD for W_in=1.2000, W_out=0.6000
+[2026-04-09 10:53:39]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9973683611, point_elapsed_s=195.58
+[2026-04-09 10:53:39]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:53:39]   progress: completed=82/484 (16.94%), elapsed=04h:28m:24s, eta_remaining=21h:55m:49s
+[2026-04-09 10:53:39] Point 83/484 (17.15%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.6000
+[2026-04-09 10:53:39]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:53:39]   run: launching FDTD for W_in=1.2500, W_out=0.6000
+[2026-04-09 10:56:59]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9973646430, point_elapsed_s=199.69
+[2026-04-09 10:56:59]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 10:56:59]   progress: completed=83/484 (17.15%), elapsed=04h:31m:44s, eta_remaining=21h:52m:48s
+[2026-04-09 10:56:59] Point 84/484 (17.36%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.6000
+[2026-04-09 10:56:59]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 10:56:59]   run: launching FDTD for W_in=1.3000, W_out=0.6000
+[2026-04-09 11:00:11]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9974718439, point_elapsed_s=192.28
+[2026-04-09 11:00:11]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:00:11]   progress: completed=84/484 (17.36%), elapsed=04h:34m:56s, eta_remaining=21h:49m:12s
+[2026-04-09 11:00:11] Point 85/484 (17.56%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.35_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3500, W_out=0.6000
+[2026-04-09 11:00:11]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:00:11]   run: launching FDTD for W_in=1.3500, W_out=0.6000
+[2026-04-09 11:03:21]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9974358535, point_elapsed_s=189.67
+[2026-04-09 11:03:21]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:03:21]   progress: completed=85/484 (17.56%), elapsed=04h:38m:06s, eta_remaining=21h:45m:25s
+[2026-04-09 11:03:21] Point 86/484 (17.77%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.4_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4000, W_out=0.6000
+[2026-04-09 11:03:21]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:03:21]   run: launching FDTD for W_in=1.4000, W_out=0.6000
+[2026-04-09 11:06:35]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9971739453, point_elapsed_s=193.58
+[2026-04-09 11:06:35]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:06:35]   progress: completed=86/484 (17.77%), elapsed=04h:41m:19s, eta_remaining=21h:41m:56s
+[2026-04-09 11:06:35] Point 87/484 (17.98%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4500, W_out=0.6000
+[2026-04-09 11:06:35]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:06:35]   run: launching FDTD for W_in=1.4500, W_out=0.6000
+[2026-04-09 11:09:50]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9967992368, point_elapsed_s=195.77
+[2026-04-09 11:09:50]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:09:50]   progress: completed=87/484 (17.98%), elapsed=04h:44m:35s, eta_remaining=21h:38m:38s
+[2026-04-09 11:09:50] Point 88/484 (18.18%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.5_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.5000, W_out=0.6000
+[2026-04-09 11:09:50]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:09:50]   run: launching FDTD for W_in=1.5000, W_out=0.6000
+[2026-04-09 11:13:04]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9959430439, point_elapsed_s=193.50
+[2026-04-09 11:13:04]   best_so_far: index=67, W_in=0.4500, W_out=0.6000, T_list2_center=1.0005252813, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.6_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:13:04]   progress: completed=88/484 (18.18%), elapsed=04h:47m:49s, eta_remaining=21h:35m:09s
+[2026-04-09 11:13:04] Point 89/484 (18.39%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.6500
+[2026-04-09 11:13:04]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:13:04]   run: launching FDTD for W_in=0.4500, W_out=0.6500
+[2026-04-09 11:16:23]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0008172223, point_elapsed_s=199.28
+[2026-04-09 11:16:23]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:16:23]   progress: completed=89/484 (18.39%), elapsed=04h:51m:08s, eta_remaining=21h:32m:07s
+[2026-04-09 11:16:23] Point 90/484 (18.60%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.6500
+[2026-04-09 11:16:23]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:16:23]   run: launching FDTD for W_in=0.5000, W_out=0.6500
+[2026-04-09 11:19:39]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0006258495, point_elapsed_s=195.72
+[2026-04-09 11:19:39]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:19:39]   progress: completed=90/484 (18.60%), elapsed=04h:54m:24s, eta_remaining=21h:28m:48s
+[2026-04-09 11:19:39] Point 91/484 (18.80%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.6500
+[2026-04-09 11:19:39]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:19:39]   run: launching FDTD for W_in=0.5500, W_out=0.6500
+[2026-04-09 11:22:45]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0004472238, point_elapsed_s=185.82
+[2026-04-09 11:22:45]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:22:45]   progress: completed=91/484 (18.80%), elapsed=04h:57m:30s, eta_remaining=21h:24m:47s
+[2026-04-09 11:22:45] Point 92/484 (19.01%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.6500
+[2026-04-09 11:22:45]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:22:45]   run: launching FDTD for W_in=0.6000, W_out=0.6500
+[2026-04-09 11:26:01]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9999970590, point_elapsed_s=195.79
+[2026-04-09 11:26:01]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:26:01]   progress: completed=92/484 (19.01%), elapsed=05h:00m:45s, eta_remaining=21h:21m:30s
+[2026-04-09 11:26:01] Point 93/484 (19.21%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.6500
+[2026-04-09 11:26:01]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:26:01]   run: launching FDTD for W_in=0.6500, W_out=0.6500
+[2026-04-09 11:29:20]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9998339686, point_elapsed_s=199.60
+[2026-04-09 11:29:20]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:29:20]   progress: completed=93/484 (19.21%), elapsed=05h:04m:05s, eta_remaining=21h:18m:28s
+[2026-04-09 11:29:20] Point 94/484 (19.42%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.6500
+[2026-04-09 11:29:20]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:29:20]   run: launching FDTD for W_in=0.7000, W_out=0.6500
+[2026-04-09 11:32:46]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9995381141, point_elapsed_s=205.77
+[2026-04-09 11:32:46]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:32:46]   progress: completed=94/484 (19.42%), elapsed=05h:07m:31s, eta_remaining=21h:15m:52s
+[2026-04-09 11:32:46] Point 95/484 (19.63%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.6500
+[2026-04-09 11:32:46]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:32:46]   run: launching FDTD for W_in=0.7500, W_out=0.6500
+[2026-04-09 11:35:54]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9993206241, point_elapsed_s=187.69
+[2026-04-09 11:35:54]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:35:54]   progress: completed=95/484 (19.63%), elapsed=05h:10m:39s, eta_remaining=21h:12m:00s
+[2026-04-09 11:35:54] Point 96/484 (19.83%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.6500
+[2026-04-09 11:35:54]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:35:54]   run: launching FDTD for W_in=0.8000, W_out=0.6500
+[2026-04-09 11:38:59]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9990660586, point_elapsed_s=185.40
+[2026-04-09 11:38:59]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:38:59]   progress: completed=96/484 (19.83%), elapsed=05h:13m:44s, eta_remaining=21h:08m:01s
+[2026-04-09 11:38:59] Point 97/484 (20.04%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.6500
+[2026-04-09 11:38:59]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:38:59]   run: launching FDTD for W_in=0.8500, W_out=0.6500
+[2026-04-09 11:42:19]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9988293092, point_elapsed_s=199.63
+[2026-04-09 11:42:19]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:42:19]   progress: completed=97/484 (20.04%), elapsed=05h:17m:04s, eta_remaining=21h:04m:59s
+[2026-04-09 11:42:19] Point 98/484 (20.25%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.6500
+[2026-04-09 11:42:19]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:42:19]   run: launching FDTD for W_in=0.9000, W_out=0.6500
+[2026-04-09 11:45:41]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9986559449, point_elapsed_s=201.70
+[2026-04-09 11:45:41]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:45:41]   progress: completed=98/484 (20.25%), elapsed=05h:20m:25s, eta_remaining=21h:02m:05s
+[2026-04-09 11:45:41] Point 99/484 (20.45%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.6500
+[2026-04-09 11:45:41]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:45:41]   run: launching FDTD for W_in=0.9500, W_out=0.6500
+[2026-04-09 11:48:58]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9984538295, point_elapsed_s=197.43
+[2026-04-09 11:48:58]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:48:58]   progress: completed=99/484 (20.45%), elapsed=05h:23m:43s, eta_remaining=20h:58m:54s
+[2026-04-09 11:48:58] Point 100/484 (20.66%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.6500
+[2026-04-09 11:48:58]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:48:58]   run: launching FDTD for W_in=1.0000, W_out=0.6500
+[2026-04-09 11:52:10]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9983634975, point_elapsed_s=191.73
+[2026-04-09 11:52:10]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:52:10]   progress: completed=100/484 (20.66%), elapsed=05h:26m:55s, eta_remaining=20h:55m:21s
+[2026-04-09 11:52:10] Point 101/484 (20.87%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.6500
+[2026-04-09 11:52:10]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:52:10]   run: launching FDTD for W_in=1.0500, W_out=0.6500
+[2026-04-09 11:55:18]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9982146024, point_elapsed_s=187.65
+[2026-04-09 11:55:18]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:55:18]   progress: completed=101/484 (20.87%), elapsed=05h:30m:02s, eta_remaining=20h:51m:32s
+[2026-04-09 11:55:18] Point 102/484 (21.07%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.6500
+[2026-04-09 11:55:18]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:55:18]   run: launching FDTD for W_in=1.1000, W_out=0.6500
+[2026-04-09 11:58:35]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9981264593, point_elapsed_s=197.56
+[2026-04-09 11:58:35]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 11:58:35]   progress: completed=102/484 (21.07%), elapsed=05h:33m:20s, eta_remaining=20h:48m:22s
+[2026-04-09 11:58:35] Point 103/484 (21.28%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.6500
+[2026-04-09 11:58:35]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 11:58:35]   run: launching FDTD for W_in=1.1500, W_out=0.6500
+[2026-04-09 12:01:55]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9979201001, point_elapsed_s=199.64
+[2026-04-09 12:01:55]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:01:55]   progress: completed=103/484 (21.28%), elapsed=05h:36m:40s, eta_remaining=20h:45m:20s
+[2026-04-09 12:01:55] Point 104/484 (21.49%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.6500
+[2026-04-09 12:01:55]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:01:55]   run: launching FDTD for W_in=1.2000, W_out=0.6500
+[2026-04-09 12:05:05]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9975928480, point_elapsed_s=189.53
+[2026-04-09 12:05:05]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:05:05]   progress: completed=104/484 (21.49%), elapsed=05h:39m:49s, eta_remaining=20h:41m:39s
+[2026-04-09 12:05:05] Point 105/484 (21.69%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.6500
+[2026-04-09 12:05:05]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:05:05]   run: launching FDTD for W_in=1.2500, W_out=0.6500
+[2026-04-09 12:08:08]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9977733071, point_elapsed_s=183.53
+[2026-04-09 12:08:08]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:08:08]   progress: completed=105/484 (21.69%), elapsed=05h:42m:53s, eta_remaining=20h:37m:38s
+[2026-04-09 12:08:08] Point 106/484 (21.90%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.6500
+[2026-04-09 12:08:08]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:08:08]   run: launching FDTD for W_in=1.3000, W_out=0.6500
+[2026-04-09 12:11:16]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9976475195, point_elapsed_s=187.68
+[2026-04-09 12:11:16]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:11:16]   progress: completed=106/484 (21.90%), elapsed=05h:46m:01s, eta_remaining=20h:33m:53s
+[2026-04-09 12:11:16] Point 107/484 (22.11%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.35_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3500, W_out=0.6500
+[2026-04-09 12:11:16]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:11:16]   run: launching FDTD for W_in=1.3500, W_out=0.6500
+[2026-04-09 12:14:25]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9977327634, point_elapsed_s=189.45
+[2026-04-09 12:14:25]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:14:25]   progress: completed=107/484 (22.11%), elapsed=05h:49m:10s, eta_remaining=20h:30m:15s
+[2026-04-09 12:14:25] Point 108/484 (22.31%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.4_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4000, W_out=0.6500
+[2026-04-09 12:14:25]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:14:25]   run: launching FDTD for W_in=1.4000, W_out=0.6500
+[2026-04-09 12:17:41]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9974994366, point_elapsed_s=195.81
+[2026-04-09 12:17:41]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:17:41]   progress: completed=108/484 (22.31%), elapsed=05h:52m:26s, eta_remaining=20h:26m:59s
+[2026-04-09 12:17:41] Point 109/484 (22.52%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4500, W_out=0.6500
+[2026-04-09 12:17:41]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:17:41]   run: launching FDTD for W_in=1.4500, W_out=0.6500
+[2026-04-09 12:20:55]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9970351937, point_elapsed_s=193.85
+[2026-04-09 12:20:55]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:20:55]   progress: completed=109/484 (22.52%), elapsed=05h:55m:40s, eta_remaining=20h:23m:37s
+[2026-04-09 12:20:55] Point 110/484 (22.73%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.5_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.5000, W_out=0.6500
+[2026-04-09 12:20:55]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:20:55]   run: launching FDTD for W_in=1.5000, W_out=0.6500
+[2026-04-09 12:24:05]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9958938273, point_elapsed_s=190.08
+[2026-04-09 12:24:05]   best_so_far: index=89, W_in=0.4500, W_out=0.6500, T_list2_center=1.0008172223, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.65_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:24:05]   progress: completed=110/484 (22.73%), elapsed=05h:58m:50s, eta_remaining=20h:20m:02s
+[2026-04-09 12:24:05] Point 111/484 (22.93%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.7000
+[2026-04-09 12:24:05]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:24:05]   run: launching FDTD for W_in=0.4500, W_out=0.7000
+[2026-04-09 12:26:59]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0012088969, point_elapsed_s=173.61
+[2026-04-09 12:26:59]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:26:59]   progress: completed=111/484 (22.93%), elapsed=06h:01m:44s, eta_remaining=20h:15m:32s
+[2026-04-09 12:26:59] Point 112/484 (23.14%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.7000
+[2026-04-09 12:26:59]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:26:59]   run: launching FDTD for W_in=0.5000, W_out=0.7000
+[2026-04-09 12:30:03]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0009983133, point_elapsed_s=184.13
+[2026-04-09 12:30:03]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:30:03]   progress: completed=112/484 (23.14%), elapsed=06h:04m:48s, eta_remaining=20h:11m:39s
+[2026-04-09 12:30:03] Point 113/484 (23.35%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.7000
+[2026-04-09 12:30:03]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:30:03]   run: launching FDTD for W_in=0.5500, W_out=0.7000
+[2026-04-09 12:33:23]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0008508004, point_elapsed_s=199.70
+[2026-04-09 12:33:23]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:33:23]   progress: completed=113/484 (23.35%), elapsed=06h:08m:08s, eta_remaining=20h:08m:38s
+[2026-04-09 12:33:23] Point 114/484 (23.55%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.7000
+[2026-04-09 12:33:23]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:33:23]   run: launching FDTD for W_in=0.6000, W_out=0.7000
+[2026-04-09 12:36:47]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0004621532, point_elapsed_s=203.83
+[2026-04-09 12:36:47]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:36:47]   progress: completed=114/484 (23.55%), elapsed=06h:11m:31s, eta_remaining=20h:05m:49s
+[2026-04-09 12:36:47] Point 115/484 (23.76%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.7000
+[2026-04-09 12:36:47]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:36:47]   run: launching FDTD for W_in=0.6500, W_out=0.7000
+[2026-04-09 12:40:05]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0002541316, point_elapsed_s=198.67
+[2026-04-09 12:40:05]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:40:05]   progress: completed=115/484 (23.76%), elapsed=06h:14m:50s, eta_remaining=20h:02m:44s
+[2026-04-09 12:40:06] Point 116/484 (23.97%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.7000
+[2026-04-09 12:40:06]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:40:06]   run: launching FDTD for W_in=0.7000, W_out=0.7000
+[2026-04-09 12:43:05]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9998244575, point_elapsed_s=179.57
+[2026-04-09 12:43:05]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:43:05]   progress: completed=116/484 (23.97%), elapsed=06h:17m:50s, eta_remaining=19h:58m:38s
+[2026-04-09 12:43:05] Point 117/484 (24.17%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.7000
+[2026-04-09 12:43:05]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:43:05]   run: launching FDTD for W_in=0.7500, W_out=0.7000
+[2026-04-09 12:46:12]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9996944967, point_elapsed_s=187.24
+[2026-04-09 12:46:12]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:46:12]   progress: completed=117/484 (24.17%), elapsed=06h:20m:57s, eta_remaining=19h:54m:57s
+[2026-04-09 12:46:12] Point 118/484 (24.38%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.7000
+[2026-04-09 12:46:12]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:46:12]   run: launching FDTD for W_in=0.8000, W_out=0.7000
+[2026-04-09 12:49:30]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9994215017, point_elapsed_s=197.73
+[2026-04-09 12:49:30]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:49:30]   progress: completed=118/484 (24.38%), elapsed=06h:24m:15s, eta_remaining=19h:51m:49s
+[2026-04-09 12:49:30] Point 119/484 (24.59%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.7000
+[2026-04-09 12:49:30]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:49:30]   run: launching FDTD for W_in=0.8500, W_out=0.7000
+[2026-04-09 12:52:46]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9991339959, point_elapsed_s=195.52
+[2026-04-09 12:52:46]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:52:46]   progress: completed=119/484 (24.59%), elapsed=06h:27m:30s, eta_remaining=19h:48m:34s
+[2026-04-09 12:52:46] Point 120/484 (24.79%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.7000
+[2026-04-09 12:52:46]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:52:46]   run: launching FDTD for W_in=0.9000, W_out=0.7000
+[2026-04-09 12:55:54]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9989719399, point_elapsed_s=187.95
+[2026-04-09 12:55:54]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:55:54]   progress: completed=120/484 (24.79%), elapsed=06h:30m:38s, eta_remaining=19h:44m:57s
+[2026-04-09 12:55:54] Point 121/484 (25.00%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.7000
+[2026-04-09 12:55:54]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:55:54]   run: launching FDTD for W_in=0.9500, W_out=0.7000
+[2026-04-09 12:58:53]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9988604250, point_elapsed_s=179.60
+[2026-04-09 12:58:53]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 12:58:53]   progress: completed=121/484 (25.00%), elapsed=06h:33m:38s, eta_remaining=19h:40m:54s
+[2026-04-09 12:58:53] Point 122/484 (25.21%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.7000
+[2026-04-09 12:58:53]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 12:58:53]   run: launching FDTD for W_in=1.0000, W_out=0.7000
+[2026-04-09 13:02:01]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9987132707, point_elapsed_s=187.92
+[2026-04-09 13:02:01]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:02:01]   progress: completed=122/484 (25.21%), elapsed=06h:36m:46s, eta_remaining=19h:37m:18s
+[2026-04-09 13:02:01] Point 123/484 (25.41%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.7000
+[2026-04-09 13:02:01]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:02:01]   run: launching FDTD for W_in=1.0500, W_out=0.7000
+[2026-04-09 13:05:17]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9985508664, point_elapsed_s=195.64
+[2026-04-09 13:05:17]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:05:17]   progress: completed=123/484 (25.41%), elapsed=06h:40m:02s, eta_remaining=19h:34m:04s
+[2026-04-09 13:05:17] Point 124/484 (25.62%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.7000
+[2026-04-09 13:05:17]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:05:17]   run: launching FDTD for W_in=1.1000, W_out=0.7000
+[2026-04-09 13:08:26]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9984187401, point_elapsed_s=189.37
+[2026-04-09 13:08:26]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:08:26]   progress: completed=124/484 (25.62%), elapsed=06h:43m:11s, eta_remaining=19h:30m:32s
+[2026-04-09 13:08:26] Point 125/484 (25.83%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.7000
+[2026-04-09 13:08:26]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:08:26]   run: launching FDTD for W_in=1.1500, W_out=0.7000
+[2026-04-09 13:11:26]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9983039260, point_elapsed_s=179.53
+[2026-04-09 13:11:26]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:11:26]   progress: completed=125/484 (25.83%), elapsed=06h:46m:11s, eta_remaining=19h:26m:33s
+[2026-04-09 13:11:26] Point 126/484 (26.03%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.7000
+[2026-04-09 13:11:26]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:11:26]   run: launching FDTD for W_in=1.2000, W_out=0.7000
+[2026-04-09 13:14:23]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9980395146, point_elapsed_s=177.45
+[2026-04-09 13:14:23]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:14:23]   progress: completed=126/484 (26.03%), elapsed=06h:49m:08s, eta_remaining=19h:22m:28s
+[2026-04-09 13:14:24] Point 127/484 (26.24%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.7000
+[2026-04-09 13:14:24]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:14:24]   run: launching FDTD for W_in=1.2500, W_out=0.7000
+[2026-04-09 13:17:23]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9979305555, point_elapsed_s=179.51
+[2026-04-09 13:17:23]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:17:23]   progress: completed=127/484 (26.24%), elapsed=06h:52m:08s, eta_remaining=19h:18m:30s
+[2026-04-09 13:17:23] Point 128/484 (26.45%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.7000
+[2026-04-09 13:17:23]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:17:23]   run: launching FDTD for W_in=1.3000, W_out=0.7000
+[2026-04-09 13:20:31]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9980027761, point_elapsed_s=187.72
+[2026-04-09 13:20:31]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:20:31]   progress: completed=128/484 (26.45%), elapsed=06h:55m:16s, eta_remaining=19h:14m:56s
+[2026-04-09 13:20:31] Point 129/484 (26.65%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.35_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3500, W_out=0.7000
+[2026-04-09 13:20:31]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:20:31]   run: launching FDTD for W_in=1.3500, W_out=0.7000
+[2026-04-09 13:23:38]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9980372656, point_elapsed_s=187.39
+[2026-04-09 13:23:38]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:23:38]   progress: completed=129/484 (26.65%), elapsed=06h:58m:23s, eta_remaining=19h:11m:22s
+[2026-04-09 13:23:38] Point 130/484 (26.86%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.4_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4000, W_out=0.7000
+[2026-04-09 13:23:38]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:23:38]   run: launching FDTD for W_in=1.4000, W_out=0.7000
+[2026-04-09 13:26:50]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9978226652, point_elapsed_s=191.25
+[2026-04-09 13:26:50]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:26:50]   progress: completed=130/484 (26.86%), elapsed=07h:01m:34s, eta_remaining=19h:07m:58s
+[2026-04-09 13:26:50] Point 131/484 (27.07%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4500, W_out=0.7000
+[2026-04-09 13:26:50]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:26:50]   run: launching FDTD for W_in=1.4500, W_out=0.7000
+[2026-04-09 13:29:39]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9968108604, point_elapsed_s=169.21
+[2026-04-09 13:29:39]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:29:39]   progress: completed=131/484 (27.07%), elapsed=07h:04m:24s, eta_remaining=19h:03m:35s
+[2026-04-09 13:29:39] Point 132/484 (27.27%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.5_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.5000, W_out=0.7000
+[2026-04-09 13:29:39]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:29:39]   run: launching FDTD for W_in=1.5000, W_out=0.7000
+[2026-04-09 13:32:22]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9963753825, point_elapsed_s=163.38
+[2026-04-09 13:32:22]   best_so_far: index=111, W_in=0.4500, W_out=0.7000, T_list2_center=1.0012088969, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.7_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:32:22]   progress: completed=132/484 (27.27%), elapsed=07h:07m:07s, eta_remaining=18h:58m:58s
+[2026-04-09 13:32:22] Point 133/484 (27.48%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.7500
+[2026-04-09 13:32:22]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:32:22]   run: launching FDTD for W_in=0.4500, W_out=0.7500
+[2026-04-09 13:35:24]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0013951910, point_elapsed_s=181.32
+[2026-04-09 13:35:24]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:35:24]   progress: completed=133/484 (27.48%), elapsed=07h:10m:08s, eta_remaining=18h:55m:11s
+[2026-04-09 13:35:24] Point 134/484 (27.69%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.7500
+[2026-04-09 13:35:24]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:35:24]   run: launching FDTD for W_in=0.5000, W_out=0.7500
+[2026-04-09 13:38:37]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0013001515, point_elapsed_s=193.65
+[2026-04-09 13:38:37]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:38:37]   progress: completed=134/484 (27.69%), elapsed=07h:13m:22s, eta_remaining=18h:51m:56s
+[2026-04-09 13:38:37] Point 135/484 (27.89%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.7500
+[2026-04-09 13:38:37]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:38:37]   run: launching FDTD for W_in=0.5500, W_out=0.7500
+[2026-04-09 13:41:51]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0010587089, point_elapsed_s=193.63
+[2026-04-09 13:41:51]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:41:51]   progress: completed=135/484 (27.89%), elapsed=07h:16m:36s, eta_remaining=18h:48m:41s
+[2026-04-09 13:41:51] Point 136/484 (28.10%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.7500
+[2026-04-09 13:41:51]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:41:51]   run: launching FDTD for W_in=0.6000, W_out=0.7500
+[2026-04-09 13:44:48]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0006658759, point_elapsed_s=177.35
+[2026-04-09 13:44:48]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:44:48]   progress: completed=136/484 (28.10%), elapsed=07h:19m:33s, eta_remaining=18h:44m:44s
+[2026-04-09 13:44:48] Point 137/484 (28.31%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.7500
+[2026-04-09 13:44:48]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:44:48]   run: launching FDTD for W_in=0.6500, W_out=0.7500
+[2026-04-09 13:47:52]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0004858356, point_elapsed_s=184.12
+[2026-04-09 13:47:53]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:47:53]   progress: completed=137/484 (28.31%), elapsed=07h:22m:37s, eta_remaining=18h:41m:05s
+[2026-04-09 13:47:53] Point 138/484 (28.51%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.7500
+[2026-04-09 13:47:53]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:47:53]   run: launching FDTD for W_in=0.7000, W_out=0.7500
+[2026-04-09 13:51:02]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0001487930, point_elapsed_s=189.81
+[2026-04-09 13:51:02]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:51:02]   progress: completed=138/484 (28.51%), elapsed=07h:25m:47s, eta_remaining=18h:37m:42s
+[2026-04-09 13:51:02] Point 139/484 (28.72%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.7500
+[2026-04-09 13:51:02]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:51:02]   run: launching FDTD for W_in=0.7500, W_out=0.7500
+[2026-04-09 13:54:18]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9999310913, point_elapsed_s=195.71
+[2026-04-09 13:54:18]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:54:18]   progress: completed=139/484 (28.72%), elapsed=07h:29m:03s, eta_remaining=18h:34m:33s
+[2026-04-09 13:54:18] Point 140/484 (28.93%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.7500
+[2026-04-09 13:54:18]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:54:18]   run: launching FDTD for W_in=0.8000, W_out=0.7500
+[2026-04-09 13:57:28]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9996152831, point_elapsed_s=189.45
+[2026-04-09 13:57:28]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 13:57:28]   progress: completed=140/484 (28.93%), elapsed=07h:32m:12s, eta_remaining=18h:31m:08s
+[2026-04-09 13:57:28] Point 141/484 (29.13%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.7500
+[2026-04-09 13:57:28]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 13:57:28]   run: launching FDTD for W_in=0.8500, W_out=0.7500
+[2026-04-09 14:00:27]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9994188908, point_elapsed_s=179.61
+[2026-04-09 14:00:27]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:00:27]   progress: completed=141/484 (29.13%), elapsed=07h:35m:12s, eta_remaining=18h:27m:20s
+[2026-04-09 14:00:27] Point 142/484 (29.34%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.7500
+[2026-04-09 14:00:27]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:00:27]   run: launching FDTD for W_in=0.9000, W_out=0.7500
+[2026-04-09 14:03:33]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9992679939, point_elapsed_s=185.83
+[2026-04-09 14:03:33]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:03:33]   progress: completed=142/484 (29.34%), elapsed=07h:38m:18s, eta_remaining=18h:23m:47s
+[2026-04-09 14:03:33] Point 143/484 (29.55%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.7500
+[2026-04-09 14:03:33]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:03:33]   run: launching FDTD for W_in=0.9500, W_out=0.7500
+[2026-04-09 14:06:41]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9990495163, point_elapsed_s=187.45
+[2026-04-09 14:06:41]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:06:41]   progress: completed=143/484 (29.55%), elapsed=07h:41m:25s, eta_remaining=18h:20m:19s
+[2026-04-09 14:06:41] Point 144/484 (29.75%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.7500
+[2026-04-09 14:06:41]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:06:41]   run: launching FDTD for W_in=1.0000, W_out=0.7500
+[2026-04-09 14:09:40]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9988422882, point_elapsed_s=179.77
+[2026-04-09 14:09:40]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:09:40]   progress: completed=144/484 (29.75%), elapsed=07h:44m:25s, eta_remaining=18h:16m:33s
+[2026-04-09 14:09:40] Point 145/484 (29.96%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.7500
+[2026-04-09 14:09:41]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:09:41]   run: launching FDTD for W_in=1.0500, W_out=0.7500
+[2026-04-09 14:12:46]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9988135090, point_elapsed_s=185.50
+[2026-04-09 14:12:46]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:12:46]   progress: completed=145/484 (29.96%), elapsed=07h:47m:31s, eta_remaining=18h:13m:01s
+[2026-04-09 14:12:46] Point 146/484 (30.17%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.7500
+[2026-04-09 14:12:46]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:12:46]   run: launching FDTD for W_in=1.1000, W_out=0.7500
+[2026-04-09 14:15:58]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9986300851, point_elapsed_s=191.89
+[2026-04-09 14:15:58]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:15:58]   progress: completed=146/484 (30.17%), elapsed=07h:50m:43s, eta_remaining=18h:09m:44s
+[2026-04-09 14:15:58] Point 147/484 (30.37%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.7500
+[2026-04-09 14:15:58]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:15:58]   run: launching FDTD for W_in=1.1500, W_out=0.7500
+[2026-04-09 14:18:55]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9985157438, point_elapsed_s=177.30
+[2026-04-09 14:18:55]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:18:55]   progress: completed=147/484 (30.37%), elapsed=07h:53m:40s, eta_remaining=18h:05m:53s
+[2026-04-09 14:18:55] Point 148/484 (30.58%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.7500
+[2026-04-09 14:18:55]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:18:55]   run: launching FDTD for W_in=1.2000, W_out=0.7500
+[2026-04-09 14:21:45]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9980891300, point_elapsed_s=169.88
+[2026-04-09 14:21:45]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:21:45]   progress: completed=148/484 (30.58%), elapsed=07h:56m:30s, eta_remaining=18h:01m:47s
+[2026-04-09 14:21:45] Point 149/484 (30.79%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.7500
+[2026-04-09 14:21:45]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:21:45]   run: launching FDTD for W_in=1.2500, W_out=0.7500
+[2026-04-09 14:24:39]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9983142325, point_elapsed_s=173.47
+[2026-04-09 14:24:39]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:24:39]   progress: completed=149/484 (30.79%), elapsed=07h:59m:23s, eta_remaining=17h:57m:49s
+[2026-04-09 14:24:39] Point 150/484 (30.99%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.7500
+[2026-04-09 14:24:39]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:24:39]   run: launching FDTD for W_in=1.3000, W_out=0.7500
+[2026-04-09 14:27:58]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9983380113, point_elapsed_s=199.46
+[2026-04-09 14:27:58]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:27:58]   progress: completed=150/484 (30.99%), elapsed=08h:02m:43s, eta_remaining=17h:54m:51s
+[2026-04-09 14:27:58] Point 151/484 (31.20%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.35_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3500, W_out=0.7500
+[2026-04-09 14:27:58]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:27:58]   run: launching FDTD for W_in=1.3500, W_out=0.7500
+[2026-04-09 14:31:16]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9982574819, point_elapsed_s=197.64
+[2026-04-09 14:31:16]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:31:16]   progress: completed=151/484 (31.20%), elapsed=08h:06m:01s, eta_remaining=17h:51m:48s
+[2026-04-09 14:31:16] Point 152/484 (31.40%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.4_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4000, W_out=0.7500
+[2026-04-09 14:31:16]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:31:16]   run: launching FDTD for W_in=1.4000, W_out=0.7500
+[2026-04-09 14:34:22]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9977507199, point_elapsed_s=185.60
+[2026-04-09 14:34:22]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:34:22]   progress: completed=152/484 (31.40%), elapsed=08h:09m:06s, eta_remaining=17h:48m:18s
+[2026-04-09 14:34:22] Point 153/484 (31.61%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.4500, W_out=0.7500
+[2026-04-09 14:34:22]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:34:22]   run: launching FDTD for W_in=1.4500, W_out=0.7500
+[2026-04-09 14:37:34]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9971066482, point_elapsed_s=192.14
+[2026-04-09 14:37:34]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:37:34]   progress: completed=153/484 (31.61%), elapsed=08h:12m:18s, eta_remaining=17h:45m:04s
+[2026-04-09 14:37:34] Point 154/484 (31.82%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.5_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.5000, W_out=0.7500
+[2026-04-09 14:37:34]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:37:34]   run: launching FDTD for W_in=1.5000, W_out=0.7500
+[2026-04-09 14:40:58]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9969220151, point_elapsed_s=204.26
+[2026-04-09 14:40:58]   best_so_far: index=133, W_in=0.4500, W_out=0.7500, T_list2_center=1.0013951910, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.75_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:40:58]   progress: completed=154/484 (31.82%), elapsed=08h:15m:43s, eta_remaining=17h:42m:15s
+[2026-04-09 14:40:58] Point 155/484 (32.02%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=0.8000
+[2026-04-09 14:40:58]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:40:58]   run: launching FDTD for W_in=0.4500, W_out=0.8000
+[2026-04-09 14:51:15]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0016829973, point_elapsed_s=616.67
+[2026-04-09 14:51:15]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 14:51:15]   progress: completed=155/484 (32.02%), elapsed=08h:26m:00s, eta_remaining=17h:54m:01s
+[2026-04-09 14:51:15] Point 156/484 (32.23%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.5_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5000, W_out=0.8000
+[2026-04-09 14:51:15]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 14:51:15]   run: launching FDTD for W_in=0.5000, W_out=0.8000
+[2026-04-09 15:01:45]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0015820535, point_elapsed_s=629.64
+[2026-04-09 15:01:45]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:01:45]   progress: completed=156/484 (32.23%), elapsed=08h:36m:29s, eta_remaining=18h:05m:57s
+[2026-04-09 15:01:45] Point 157/484 (32.44%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.55_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.5500, W_out=0.8000
+[2026-04-09 15:01:45]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:01:45]   run: launching FDTD for W_in=0.5500, W_out=0.8000
+[2026-04-09 15:05:23]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0013309116, point_elapsed_s=218.11
+[2026-04-09 15:05:23]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:05:23]   progress: completed=157/484 (32.44%), elapsed=08h:40m:07s, eta_remaining=18h:03m:19s
+[2026-04-09 15:05:23] Point 158/484 (32.64%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.6_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6000, W_out=0.8000
+[2026-04-09 15:05:23]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:05:23]   run: launching FDTD for W_in=0.6000, W_out=0.8000
+[2026-04-09 15:08:38]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0009666575, point_elapsed_s=194.79
+[2026-04-09 15:08:38]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:08:38]   progress: completed=158/484 (32.64%), elapsed=08h:43m:22s, eta_remaining=17h:59m:52s
+[2026-04-09 15:08:38] Point 159/484 (32.85%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.65_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.6500, W_out=0.8000
+[2026-04-09 15:08:38]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:08:38]   run: launching FDTD for W_in=0.6500, W_out=0.8000
+[2026-04-09 15:11:57]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0007549088, point_elapsed_s=199.80
+[2026-04-09 15:11:57]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:11:57]   progress: completed=159/484 (32.85%), elapsed=08h:46m:42s, eta_remaining=17h:56m:36s
+[2026-04-09 15:11:58] Point 160/484 (33.06%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.7_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7000, W_out=0.8000
+[2026-04-09 15:11:58]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:11:58]   run: launching FDTD for W_in=0.7000, W_out=0.8000
+[2026-04-09 15:15:06]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0003975244, point_elapsed_s=188.17
+[2026-04-09 15:15:06]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:15:06]   progress: completed=160/484 (33.06%), elapsed=08h:49m:50s, eta_remaining=17h:52m:56s
+[2026-04-09 15:15:06] Point 161/484 (33.26%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.75_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.7500, W_out=0.8000
+[2026-04-09 15:15:06]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:15:06]   run: launching FDTD for W_in=0.7500, W_out=0.8000
+[2026-04-09 15:18:09]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=1.0001679441, point_elapsed_s=183.68
+[2026-04-09 15:18:09]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:18:09]   progress: completed=161/484 (33.26%), elapsed=08h:52m:54s, eta_remaining=17h:49m:07s
+[2026-04-09 15:18:09] Point 162/484 (33.47%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.8_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8000, W_out=0.8000
+[2026-04-09 15:18:10]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:18:10]   run: launching FDTD for W_in=0.8000, W_out=0.8000
+[2026-04-09 15:21:31]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9999041112, point_elapsed_s=201.85
+[2026-04-09 15:21:31]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:21:31]   progress: completed=162/484 (33.47%), elapsed=08h:56m:16s, eta_remaining=17h:45m:55s
+[2026-04-09 15:21:31] Point 163/484 (33.68%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.85_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.8500, W_out=0.8000
+[2026-04-09 15:21:31]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:21:31]   run: launching FDTD for W_in=0.8500, W_out=0.8000
+[2026-04-09 15:27:01]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9997315978, point_elapsed_s=329.69
+[2026-04-09 15:27:01]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:27:01]   progress: completed=163/484 (33.68%), elapsed=09h:01m:46s, eta_remaining=17h:46m:55s
+[2026-04-09 15:27:01] Point 164/484 (33.88%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.9_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9000, W_out=0.8000
+[2026-04-09 15:27:01]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:27:01]   run: launching FDTD for W_in=0.9000, W_out=0.8000
+[2026-04-09 15:29:59]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9994448729, point_elapsed_s=178.03
+[2026-04-09 15:29:59]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:29:59]   progress: completed=164/484 (33.88%), elapsed=09h:04m:44s, eta_remaining=17h:42m:53s
+[2026-04-09 15:29:59] Point 165/484 (34.09%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.95_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.9500, W_out=0.8000
+[2026-04-09 15:29:59]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:29:59]   run: launching FDTD for W_in=0.9500, W_out=0.8000
+[2026-04-09 15:33:03]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9992931428, point_elapsed_s=183.92
+[2026-04-09 15:33:03]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:33:03]   progress: completed=165/484 (34.09%), elapsed=09h:07m:48s, eta_remaining=17h:39m:05s
+[2026-04-09 15:33:03] Point 166/484 (34.30%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0000, W_out=0.8000
+[2026-04-09 15:33:03]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:33:03]   run: launching FDTD for W_in=1.0000, W_out=0.8000
+[2026-04-09 15:36:19]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9991630702, point_elapsed_s=195.94
+[2026-04-09 15:36:19]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:36:19]   progress: completed=166/484 (34.30%), elapsed=09h:11m:04s, eta_remaining=17h:35m:39s
+[2026-04-09 15:36:19] Point 167/484 (34.50%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.05_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.0500, W_out=0.8000
+[2026-04-09 15:36:19]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:36:19]   run: launching FDTD for W_in=1.0500, W_out=0.8000
+[2026-04-09 15:39:33]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9990342416, point_elapsed_s=194.11
+[2026-04-09 15:39:33]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:39:33]   progress: completed=167/484 (34.50%), elapsed=09h:14m:18s, eta_remaining=17h:32m:11s
+[2026-04-09 15:39:33] Point 168/484 (34.71%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.1_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1000, W_out=0.8000
+[2026-04-09 15:39:33]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:39:33]   run: launching FDTD for W_in=1.1000, W_out=0.8000
+[2026-04-09 15:42:26]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9989250163, point_elapsed_s=172.33
+[2026-04-09 15:42:26]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:42:26]   progress: completed=168/484 (34.71%), elapsed=09h:17m:10s, eta_remaining=17h:28m:01s
+[2026-04-09 15:42:26] Point 169/484 (34.92%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.15_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.1500, W_out=0.8000
+[2026-04-09 15:42:26]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:42:26]   run: launching FDTD for W_in=1.1500, W_out=0.8000
+[2026-04-09 15:45:43]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9987495143, point_elapsed_s=196.96
+[2026-04-09 15:45:43]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:45:43]   progress: completed=169/484 (34.92%), elapsed=09h:20m:28s, eta_remaining=17h:24m:38s
+[2026-04-09 15:45:43] Point 170/484 (35.12%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.2_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2000, W_out=0.8000
+[2026-04-09 15:45:43]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:45:43]   run: launching FDTD for W_in=1.2000, W_out=0.8000
+[2026-04-09 15:48:46]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9984258761, point_elapsed_s=182.58
+[2026-04-09 15:48:46]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:48:46]   progress: completed=170/484 (35.12%), elapsed=09h:23m:30s, eta_remaining=17h:20m:49s
+[2026-04-09 15:48:46] Point 171/484 (35.33%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.25_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.2500, W_out=0.8000
+[2026-04-09 15:48:46]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:48:46]   run: launching FDTD for W_in=1.2500, W_out=0.8000
+[2026-04-09 15:51:44]   result: status=simulated, lambda_center_nm=1550.000000, T_list2_center=0.9985750227, point_elapsed_s=178.44
+[2026-04-09 15:51:44]   best_so_far: index=155, W_in=0.4500, W_out=0.8000, T_list2_center=1.0016829973, para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501
+[2026-04-09 15:51:44]   progress: completed=171/484 (35.33%), elapsed=09h:26m:29s, eta_remaining=17h:16m:53s
+[2026-04-09 15:51:44] Point 172/484 (35.54%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.3_W_out_0.8_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=1.3000, W_out=0.8000
+[2026-04-09 15:51:44]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 15:51:44]   run: launching FDTD for W_in=1.3000, W_out=0.8000

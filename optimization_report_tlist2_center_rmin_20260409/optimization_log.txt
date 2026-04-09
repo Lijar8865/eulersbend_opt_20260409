@@ -1,0 +1,17 @@
+[2026-04-09 16:49:52] Start sweep with 11 points
+[2026-04-09 16:49:52] Sweep range: R_min = 30.00:5.00:80.00, fixed W_in = 0.45, fixed W_out = 1.66
+[2026-04-09 16:49:52] Point 1/11 (9.09%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_30_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=30.0000
+[2026-04-09 16:49:52]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 16:49:52]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=30.0000
+[2026-04-09 16:50:24]   result: status=parse_failed, lambda_center_nm=NaN, T_list2_center=NaN, point_elapsed_s=31.76
+[2026-04-09 16:50:24]   best_so_far: none yet
+[2026-04-09 16:50:24]   progress: completed=1/11 (9.09%), elapsed=00h:00m:32s, eta_remaining=00h:05m:19s
+[2026-04-09 16:50:24] Point 2/11 (18.18%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_35_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=35.0000
+[2026-04-09 16:50:24]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 16:50:24]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=35.0000
+[2026-04-09 16:50:58]   result: status=parse_failed, lambda_center_nm=NaN, T_list2_center=NaN, point_elapsed_s=33.38
+[2026-04-09 16:50:58]   best_so_far: none yet
+[2026-04-09 16:50:58]   progress: completed=2/11 (18.18%), elapsed=00h:01m:06s, eta_remaining=00h:04m:56s
+[2026-04-09 16:50:58] Point 3/11 (27.27%) START para=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_40_total_angle_deg_30_straight_length_5_N_point_501, W_in=0.4500, W_out=1.6600, R_min=40.0000
+[2026-04-09 16:50:58]   precheck: existing_basic_mat=0, status=missing
+[2026-04-09 16:50:58]   run: launching FDTD for W_in=0.4500, W_out=1.6600, R_min=40.0000
