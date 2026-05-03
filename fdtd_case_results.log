@@ -1,0 +1,30 @@
+[2026-04-11 04:38:43] CASE DONE
+script_name=eulersbend_run_two_cases_angle45_r45
+para_name=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_45_total_angle_deg_45_straight_length_5_N_point_501
+basic_mat_path=/data/wcli/FDTD_sim/eulersbend_opt_20260409data/dat_eulersbend_opt_20260411/eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_0.45_W_out_1.66_R_min_45_total_angle_deg_45_straight_length_5_N_point_501/basic.mat
+W_in=0.45
+W_out=1.66
+R_min=45
+total_angle_deg=45
+lambda_center_nm=1550.0000000000
+T_list2_center_col1=1.0033100006
+T_list1_center_all=[ 0.0000095956 0.0000160600 0.0000497645 0.0000000106 0.0000000172 ]
+T_list2_center_all=[ 1.0033100006 0.0001095053 0.0000032266 0.0000007712 0.0000242572 ]
+num_ports_in_T_list=2
+------------------------------------------------------------
+
+[2026-04-11 04:59:42] CASE DONE
+script_name=eulersbend_run_two_cases_angle45_r45
+para_name=eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.66_W_out_0.45_R_min_45_total_angle_deg_45_straight_length_5_N_point_501
+basic_mat_path=/data/wcli/FDTD_sim/eulersbend_opt_20260409data/dat_eulersbend_opt_20260411/eulersbend_opt_etch_angle_83_h_wg_0.22_W_in_1.66_W_out_0.45_R_min_45_total_angle_deg_45_straight_length_5_N_point_501/basic.mat
+W_in=1.66
+W_out=0.45
+R_min=45
+total_angle_deg=45
+lambda_center_nm=1550.0000000000
+T_list2_center_col1=0.9958545163
+T_list1_center_all=[ 0.0000150335 0.0000166753 0.0000009227 0.0000063605 0.0000469989 ]
+T_list2_center_all=[ 0.9958545163 0.0000781281 0.0000386177 0.0000000387 0.0000003722 ]
+num_ports_in_T_list=2
+------------------------------------------------------------
+
